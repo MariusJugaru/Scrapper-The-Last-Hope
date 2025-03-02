@@ -1,4 +1,4 @@
-# Scrapper-The-Last-Hope
+# Scrapper: The-Last-Hope
 
 Scrapper: The Last Hope is a rogue-like shooter game set in a post-apocalyptic world.
 Robots took over the world and now it’s your mission to put an end to it.
